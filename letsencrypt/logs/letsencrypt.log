@@ -1,0 +1,14 @@
+2020-07-30 08:14:07,628:DEBUG:certbot._internal.main:certbot version: 1.6.0
+2020-07-30 08:14:07,628:DEBUG:certbot._internal.main:Arguments: ['--logs-dir', '/etc/letsencrypt/logs']
+2020-07-30 08:14:07,628:DEBUG:certbot._internal.main:Discovered plugins: PluginsRegistry(PluginEntryPoint#manual,PluginEntryPoint#null,PluginEntryPoint#standalone,PluginEntryPoint#webroot)
+2020-07-30 08:14:07,642:DEBUG:certbot._internal.log:Root logging level set at 20
+2020-07-30 08:14:07,643:INFO:certbot._internal.log:Saving debug log to /etc/letsencrypt/logs/letsencrypt.log
+2020-07-30 08:14:07,660:DEBUG:certbot._internal.plugins.selection:Requested authenticator <certbot._internal.cli.cli_utils._Default object at 0x7fb48d90a640> and installer <certbot._internal.cli.cli_utils._Default object at 0x7fb48d90a640>
+2020-07-30 08:14:07,660:DEBUG:certbot._internal.cli:Var logs_dir=/etc/letsencrypt/logs (set by user).
+2020-07-30 08:14:07,678:DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): ocsp.int-x3.letsencrypt.org:80
+2020-07-30 08:14:07,816:DEBUG:urllib3.connectionpool:http://ocsp.int-x3.letsencrypt.org:80 "POST / HTTP/1.1" 200 527
+2020-07-30 08:14:07,817:DEBUG:certbot.ocsp:OCSP response for certificate /etc/letsencrypt/archive/gergobw-demo.tk/cert1.pem is signed by the certificate's issuer.
+2020-07-30 08:14:07,820:DEBUG:certbot.ocsp:OCSP certificate status for /etc/letsencrypt/archive/gergobw-demo.tk/cert1.pem is: OCSPCertStatus.GOOD
+2020-07-30 08:14:07,822:INFO:certbot._internal.renewal:Cert not yet due for renewal
+2020-07-30 08:14:07,823:DEBUG:certbot._internal.plugins.selection:Requested authenticator standalone and installer None
+2020-07-30 08:14:07,824:DEBUG:certbot._internal.renewal:no renewal failures

@@ -1,0 +1,59 @@
+2020-07-30 08:14:42.342 +00:00 [Information] Migrating database.
+2020-07-30 08:14:43.635 +00:00 [Information] Beginning transaction
+2020-07-30 08:14:43.640 +00:00 [Information] Beginning database upgrade
+2020-07-30 08:14:43.642 +00:00 [Information] Checking whether journal table exists..
+2020-07-30 08:14:43.686 +00:00 [Information] Journal table does not exist
+2020-07-30 08:14:43.707 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-08-19_00_InitialSetup.sql"'
+2020-07-30 08:14:43.727 +00:00 [Information] Checking whether journal table exists..
+2020-07-30 08:14:43.729 +00:00 [Information] Creating the [dbo].[Migration] table
+2020-07-30 08:14:43.737 +00:00 [Information] The [dbo].[Migration] table has been created
+2020-07-30 08:14:45.229 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-08-22_00_LicenseCheckScripts.sql"'
+2020-07-30 08:14:45.296 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-08-30_00_CollectionWriteOnly.sql"'
+2020-07-30 08:14:45.493 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-09-06_00_CipherDetails.sql"'
+2020-07-30 08:14:45.668 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-09-08_00_OrgUserCounts.sql"'
+2020-07-30 08:14:45.732 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-10-25_00_OrgUserUpdates.sql"'
+2020-07-30 08:14:46.023 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-11-06_00_FamilyPlanAdjustments.sql"'
+2020-07-30 08:14:46.314 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-11-13_00_IndexTuning.sql"'
+2020-07-30 08:14:46.538 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-11-24_00_UpdateProcs.sql"'
+2020-07-30 08:14:46.906 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2017-12-12_00_Events.sql"'
+2020-07-30 08:14:46.972 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-02-28_00_LoginUris.sql"'
+2020-07-30 08:14:47.011 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-03-12_00_FixLoginUris.sql"'
+2020-07-30 08:14:47.032 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-03-21_00_AdminPortal.sql"'
+2020-07-30 08:14:47.047 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-04-02_00_Org2fa.sql"'
+2020-07-30 08:14:47.073 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-04-24_00_CipherQueryTuning.sql"'
+2020-07-30 08:14:47.226 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-06-11_00_WebVaultUpdates.sql"'
+2020-07-30 08:14:47.374 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-07-28_00_DbTuning.sql"'
+2020-07-30 08:14:47.398 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-08-14_00_UserKdf.sql"'
+2020-07-30 08:14:47.496 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-08-28_00_PremiumOrgAbilities.sql"'
+2020-07-30 08:14:47.501 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-09-25_00_OrgPurge.sql"'
+2020-07-30 08:14:47.526 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-10-17_00_ManagerRole.sql"'
+2020-07-30 08:14:47.569 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2018-12-19_00_OrgUserTwoFactorEnabled.sql"'
+2020-07-30 08:14:47.581 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2019-01-31_00_Transactions.sql"'
+2020-07-30 08:14:47.616 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2019-03-01_00_OrgApi.sql"'
+2020-07-30 08:14:47.691 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2019-05-01_00_CipherOrgDetailsFix.sql"'
+2020-07-30 08:14:47.693 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2019-05-15_00_GroupNameFixes.sql"'
+2020-07-30 08:14:47.837 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2019-05-28_00_CollectionCipherImprovements.sql"'
+2020-07-30 08:14:47.845 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-02-18_00_PolicySetup.sql"'
+2020-07-30 08:14:47.874 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-03-26_00_CipherSoftDelete.sql"'
+2020-07-30 08:14:47.946 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-04-01_00_CipherSoftDelete.sql"'
+2020-07-30 08:14:47.978 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-04-02_00_CipherSoftDelete.sql"'
+2020-07-30 08:14:47.983 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-04-09_00_CipherSoftDelete.sql"'
+2020-07-30 08:14:47.988 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-05-02_00_SprocPerfTweaks.sql"'
+2020-07-30 08:14:48.002 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-05-22_00_HiddenPassword.sql"'
+2020-07-30 08:14:48.048 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-06-23_00_OrgIdentifier.sql"'
+2020-07-30 08:14:48.059 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-06-24_00_SsoConfig.sql"'
+2020-07-30 08:14:48.071 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-06-25_00_ReferenceId.sql"'
+2020-07-30 08:14:48.086 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-07-17_00_ReferenceData.sql"'
+2020-07-30 08:14:48.109 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-07-20_00_OrgSso.sql"'
+2020-07-30 08:14:48.124 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-07-21_00_BulkDeleteCiphersAsOrgAdmin.sql"'
+2020-07-30 08:14:48.129 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-07-27_00_SsoUser.sql"'
+2020-07-30 08:14:48.136 +00:00 [Information] Executing Database Server script '"Bit.Migrator.DbScripts.2020-07-28_00_SsoBound.sql"'
+2020-07-30 08:14:48.140 +00:00 [Information] Upgrade successful
+2020-07-30 08:14:48.151 +00:00 [Information] Migration successful.
+2020-07-30 10:14:40.748 +00:00 [Information] Migrating database.
+2020-07-30 10:14:41.074 +00:00 [Information] Beginning transaction
+2020-07-30 10:14:41.078 +00:00 [Information] Beginning database upgrade
+2020-07-30 10:14:41.080 +00:00 [Information] Checking whether journal table exists..
+2020-07-30 10:14:41.113 +00:00 [Information] Fetching list of already executed scripts.
+2020-07-30 10:14:41.122 +00:00 [Information] No new scripts need to be executed - completing.
+2020-07-30 10:14:41.124 +00:00 [Information] Migration successful.

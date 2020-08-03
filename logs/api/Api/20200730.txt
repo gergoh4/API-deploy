@@ -1,0 +1,50 @@
+2020-07-30 08:14:22.542 +00:00 [Information] Api started.
+2020-07-30 09:00:00.030 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 09:00:00.
+2020-07-30 09:00:00.032 +00:00 [Information] It's alive!
+2020-07-30 09:00:00.034 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 09:00:00.
+2020-07-30 10:00:00.003 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 10:00:00.
+2020-07-30 10:00:00.004 +00:00 [Information] It's alive!
+2020-07-30 10:00:00.004 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 10:00:00.
+2020-07-30 10:14:23.354 +00:00 [Information] Api started.
+2020-07-30 11:00:00.028 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 11:00:00.
+2020-07-30 11:00:00.030 +00:00 [Information] It's alive!
+2020-07-30 11:00:00.033 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 11:00:00.
+2020-07-30 12:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 12:00:00.
+2020-07-30 12:00:00.006 +00:00 [Information] It's alive!
+2020-07-30 12:00:00.006 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 12:00:00.
+2020-07-30 12:00:00.029 +00:00 [Information] Starting job "ValidateUsersJob" at 07/30/2020 12:00:00.
+2020-07-30 12:00:00.315 +00:00 [Information] Validating premium for 0 users.
+2020-07-30 12:00:00.316 +00:00 [Information] Finished job "ValidateUsersJob" at 07/30/2020 12:00:00.
+2020-07-30 12:30:00.001 +00:00 [Information] Starting job "ValidateOrganizationsJob" at 07/30/2020 12:30:00.
+2020-07-30 12:30:00.118 +00:00 [Information] Validating licenses for 0 organizations.
+2020-07-30 12:30:00.119 +00:00 [Information] Finished job "ValidateOrganizationsJob" at 07/30/2020 12:30:00.
+2020-07-30 13:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 13:00:00.
+2020-07-30 13:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 13:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 13:00:00.
+2020-07-30 14:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 14:00:00.
+2020-07-30 14:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 14:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 14:00:00.
+2020-07-30 15:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 15:00:00.
+2020-07-30 15:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 15:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 15:00:00.
+2020-07-30 16:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 16:00:00.
+2020-07-30 16:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 16:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 16:00:00.
+2020-07-30 17:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 17:00:00.
+2020-07-30 17:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 17:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 17:00:00.
+2020-07-30 18:00:00.001 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 18:00:00.
+2020-07-30 18:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 18:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 18:00:00.
+2020-07-30 18:00:00.001 +00:00 [Information] Starting job "ValidateUsersJob" at 07/30/2020 18:00:00.
+2020-07-30 18:00:00.132 +00:00 [Information] Validating premium for 0 users.
+2020-07-30 18:00:00.133 +00:00 [Information] Finished job "ValidateUsersJob" at 07/30/2020 18:00:00.
+2020-07-30 19:00:00.000 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 19:00:00.
+2020-07-30 19:00:00.000 +00:00 [Information] It's alive!
+2020-07-30 19:00:00.000 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 19:00:00.
+2020-07-30 20:00:00.000 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 20:00:00.
+2020-07-30 20:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 20:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 20:00:00.
+2020-07-30 21:00:00.000 +00:00 [Information] Starting job "AliveJob" at 07/30/2020 21:00:00.
+2020-07-30 21:00:00.001 +00:00 [Information] It's alive!
+2020-07-30 21:00:00.001 +00:00 [Information] Finished job "AliveJob" at 07/30/2020 21:00:00.
